@@ -19,9 +19,12 @@ jobs:
           node-version: '14'
           registry-url: https://registry.npmjs.org
 
+      - name: Create .npmrc
+        run: echo "//registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}" > ~/.npmrc
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_SECRET }}
+
       - name: Publish to npm
         run: npm publish --access public
         env:
-          NPM_TOKEN: ${{ secrets.NPM_SECRET }}
           NODE_AUTH_TOKEN: ${{ secrets.NPM_SECRET }}
-          NPM_CONFIG_USERCONFIG: /home/runner/work/_temp/.npmrc
