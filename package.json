@@ -1,6 +1,6 @@
 {
   "name": "country-list-and-code",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A list of country names with country name, country code, currency, currency symbol, currency code const getCountry = require('country-list-and-code'); const countries = getCountry; console.log(countries);",
   "main": "main.js",
   "scripts": {
