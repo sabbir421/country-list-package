@@ -16,10 +16,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1.4.2
         with:
-          node-version: '14'  # Adjust the version as needed
+          node-version: '14'
           registry-url: https://registry.npmjs.org
 
       - name: Publish to npm
         run: npm publish --access public
         env:
           NPM_TOKEN: ${{ secrets.NPM_SECRET }}
+          NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
+          NPM_CONFIG_USERCONFIG: /home/runner/work/_temp/.npmrc
