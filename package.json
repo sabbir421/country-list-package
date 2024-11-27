@@ -1,7 +1,7 @@
 {
   "name": "country-details",
   "version": "1.3.3",
-  "description": "Country list and details package",
+  "description": "Country list and country details package",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
