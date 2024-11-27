@@ -5,14 +5,15 @@ const country = [
     currency: "Afghan Afghani",
     currencySymbol: "؋",
     currencyCode: "AFN",
+    phoneCode: "+93",
   },
-
   {
     countryName: "Albania",
     countryCode: "AL",
     currency: "Albanian Lek",
     currencySymbol: "L",
     currencyCode: "ALL",
+    phoneCode: "+355",
   },
   {
     countryName: "Algeria",
@@ -20,14 +21,15 @@ const country = [
     currency: "Algerian Dinar",
     currencySymbol: "د.ج",
     currencyCode: "DZD",
+    phoneCode: "+213",
   },
-
   {
     countryName: "Andorra",
     countryCode: "AD",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+376",
   },
   {
     countryName: "Angola",
@@ -35,6 +37,7 @@ const country = [
     currency: "Angolan Kwanza",
     currencySymbol: "Kz",
     currencyCode: "AOA",
+    phoneCode: "+244",
   },
   {
     countryName: "Antigua and Barbuda",
@@ -42,6 +45,7 @@ const country = [
     currency: "East Caribbean Dollar",
     currencySymbol: "$",
     currencyCode: "XCD",
+    phoneCode: "+1-268",
   },
   {
     countryName: "Argentina",
@@ -49,6 +53,7 @@ const country = [
     currency: "Argentine Peso",
     currencySymbol: "$",
     currencyCode: "ARS",
+    phoneCode: "+54",
   },
   {
     countryName: "Armenia",
@@ -56,150 +61,151 @@ const country = [
     currency: "Armenian Dram",
     currencySymbol: "֏",
     currencyCode: "AMD",
+    phoneCode: "+374",
   },
-
   {
     countryName: "Australia",
     countryCode: "AU",
     currency: "Australian Dollar",
     currencySymbol: "$",
     currencyCode: "AUD",
+    phoneCode: "+61",
   },
-
   {
     countryName: "Austria",
     countryCode: "AT",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+43",
   },
-
   {
     countryName: "Azerbaijan",
     countryCode: "AZ",
     currency: "Azerbaijani Manat",
     currencySymbol: "₼",
     currencyCode: "AZN",
+    phoneCode: "+994",
   },
-
   {
-    countryName: "The Bahamas",
+    countryName: "Bahamas",
     countryCode: "BS",
     currency: "Bahamian Dollar",
     currencySymbol: "$",
     currencyCode: "BSD",
+    phoneCode: "+1-242",
   },
-
   {
     countryName: "Bahrain",
     countryCode: "BH",
     currency: "Bahraini Dinar",
-    currencySymbol: "BD",
+    currencySymbol: ".د.ب",
     currencyCode: "BHD",
+    phoneCode: "+973",
   },
-
   {
     countryName: "Bangladesh",
     countryCode: "BD",
     currency: "Bangladeshi Taka",
     currencySymbol: "৳",
     currencyCode: "BDT",
+    phoneCode: "+880",
   },
-
   {
     countryName: "Barbados",
     countryCode: "BB",
     currency: "Barbadian Dollar",
     currencySymbol: "$",
     currencyCode: "BBD",
+    phoneCode: "+1-246",
   },
-
   {
     countryName: "Belarus",
     countryCode: "BY",
     currency: "Belarusian Ruble",
     currencySymbol: "Br",
     currencyCode: "BYN",
+    phoneCode: "+375",
   },
-
   {
     countryName: "Belgium",
     countryCode: "BE",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+32",
   },
-
   {
     countryName: "Belize",
     countryCode: "BZ",
     currency: "Belize Dollar",
     currencySymbol: "$",
     currencyCode: "BZD",
+    phoneCode: "+501",
   },
-
   {
     countryName: "Benin",
     countryCode: "BJ",
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+229",
   },
-
   {
     countryName: "Bhutan",
     countryCode: "BT",
     currency: "Bhutanese Ngultrum",
     currencySymbol: "Nu.",
     currencyCode: "BTN",
+    phoneCode: "+975",
   },
-
   {
     countryName: "Bolivia",
     countryCode: "BO",
     currency: "Bolivian Boliviano",
     currencySymbol: "Bs.",
     currencyCode: "BOB",
+    phoneCode: "+591",
   },
-
   {
     countryName: "Bosnia and Herzegovina",
     countryCode: "BA",
-    currency: "Bosnia and Herzegovina Convertible Mark",
+    currency: "Convertible Mark",
     currencySymbol: "KM",
     currencyCode: "BAM",
+    phoneCode: "+387",
   },
-
   {
     countryName: "Botswana",
     countryCode: "BW",
     currency: "Botswana Pula",
     currencySymbol: "P",
     currencyCode: "BWP",
+    phoneCode: "+267",
   },
-
   {
     countryName: "Brazil",
     countryCode: "BR",
     currency: "Brazilian Real",
     currencySymbol: "R$",
     currencyCode: "BRL",
+    phoneCode: "+55",
   },
-
   {
     countryName: "Brunei",
     countryCode: "BN",
     currency: "Brunei Dollar",
     currencySymbol: "$",
     currencyCode: "BND",
+    phoneCode: "+673",
   },
-
   {
     countryName: "Bulgaria",
     countryCode: "BG",
     currency: "Bulgarian Lev",
     currencySymbol: "лв",
     currencyCode: "BGN",
+    phoneCode: "+359",
   },
 
   {
@@ -208,270 +214,271 @@ const country = [
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+226",
   },
-
   {
     countryName: "Burundi",
     countryCode: "BI",
     currency: "Burundian Franc",
     currencySymbol: "FBu",
     currencyCode: "BIF",
+    phoneCode: "+257",
   },
-
   {
     countryName: "Cabo Verde",
     countryCode: "CV",
     currency: "Cape Verdean Escudo",
     currencySymbol: "$",
     currencyCode: "CVE",
+    phoneCode: "+238",
   },
-
   {
     countryName: "Cambodia",
     countryCode: "KH",
     currency: "Cambodian Riel",
     currencySymbol: "៛",
     currencyCode: "KHR",
+    phoneCode: "+855",
   },
-
   {
     countryName: "Cameroon",
     countryCode: "CM",
     currency: "Central African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XAF",
+    phoneCode: "+237",
   },
-
   {
     countryName: "Canada",
     countryCode: "CA",
     currency: "Canadian Dollar",
     currencySymbol: "$",
     currencyCode: "CAD",
+    phoneCode: "+1",
   },
-
   {
     countryName: "Central African Republic",
     countryCode: "CF",
     currency: "Central African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XAF",
+    phoneCode: "+236",
   },
-
   {
     countryName: "Chad",
     countryCode: "TD",
     currency: "Central African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XAF",
+    phoneCode: "+235",
   },
-
   {
     countryName: "Chile",
     countryCode: "CL",
     currency: "Chilean Peso",
     currencySymbol: "$",
     currencyCode: "CLP",
+    phoneCode: "+56",
   },
-
   {
     countryName: "China",
     countryCode: "CN",
     currency: "Chinese Yuan Renminbi",
     currencySymbol: "¥",
     currencyCode: "CNY",
+    phoneCode: "+86",
   },
-
   {
     countryName: "Colombia",
     countryCode: "CO",
     currency: "Colombian Peso",
     currencySymbol: "$",
     currencyCode: "COP",
+    phoneCode: "+57",
   },
-
   {
     countryName: "Comoros",
     countryCode: "KM",
     currency: "Comorian Franc",
     currencySymbol: "CF",
     currencyCode: "KMF",
+    phoneCode: "+269",
   },
-
   {
     countryName: "Congo, Democratic Republic of the",
     countryCode: "CD",
     currency: "Congolese Franc",
     currencySymbol: "FC",
     currencyCode: "CDF",
+    phoneCode: "+243",
   },
-
   {
     countryName: "Congo, Republic of the",
     countryCode: "CG",
     currency: "Central African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XAF",
+    phoneCode: "+242",
   },
-
   {
     countryName: "Costa Rica",
     countryCode: "CR",
     currency: "Costa Rican Colon",
     currencySymbol: "₡",
     currencyCode: "CRC",
+    phoneCode: "+506",
   },
-
   {
     countryName: "Côte d’Ivoire",
     countryCode: "CI",
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+225",
   },
-
   {
     countryName: "Croatia",
     countryCode: "HR",
     currency: "Croatian Kuna",
     currencySymbol: "kn",
     currencyCode: "HRK",
+    phoneCode: "+385",
   },
-
   {
     countryName: "Cuba",
     countryCode: "CU",
     currency: "Cuban Peso",
     currencySymbol: "$",
     currencyCode: "CUP",
+    phoneCode: "+53",
   },
-
   {
     countryName: "Cyprus",
     countryCode: "CY",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+357",
   },
-
   {
     countryName: "Czech Republic",
     countryCode: "CZ",
     currency: "Czech Koruna",
     currencySymbol: "Kč",
     currencyCode: "CZK",
+    phoneCode: "+420",
   },
-
   {
     countryName: "Denmark",
     countryCode: "DK",
     currency: "Danish Krone",
     currencySymbol: "kr",
     currencyCode: "DKK",
+    phoneCode: "+45",
   },
-
   {
     countryName: "Djibouti",
     countryCode: "DJ",
     currency: "Djiboutian Franc",
     currencySymbol: "Fdj",
     currencyCode: "DJF",
+    phoneCode: "+253",
   },
-
   {
     countryName: "Dominica",
     countryCode: "DM",
     currency: "East Caribbean Dollar",
     currencySymbol: "$",
     currencyCode: "XCD",
+    phoneCode: "+1-767",
   },
-
   {
     countryName: "Dominican Republic",
     countryCode: "DO",
     currency: "Dominican Peso",
     currencySymbol: "RD$",
     currencyCode: "DOP",
+    phoneCode: "+1-809",
   },
-
   {
     countryName: "East Timor (Timor-Leste)",
     countryCode: "TL",
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+670",
   },
-
   {
     countryName: "Ecuador",
     countryCode: "EC",
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+593",
   },
-
   {
     countryName: "Egypt",
     countryCode: "EG",
     currency: "Egyptian Pound",
     currencySymbol: "E£",
     currencyCode: "EGP",
+    phoneCode: "+20",
   },
-
   {
     countryName: "El Salvador",
     countryCode: "SV",
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+503",
   },
-
   {
     countryName: "Equatorial Guinea",
     countryCode: "GQ",
     currency: "Central African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XAF",
+    phoneCode: "+240",
   },
-
   {
     countryName: "Eritrea",
     countryCode: "ER",
     currency: "Eritrean Nakfa",
     currencySymbol: "Nfk",
     currencyCode: "ERN",
+    phoneCode: "+291",
   },
-
   {
     countryName: "Estonia",
     countryCode: "EE",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+372",
   },
-
   {
     countryName: "Eswatini",
     countryCode: "SZ",
     currency: "Swazi Lilangeni",
     currencySymbol: "L",
     currencyCode: "SZL",
+    phoneCode: "+268",
   },
-
   {
     countryName: "Ethiopia",
     countryCode: "ET",
     currency: "Ethiopian Birr",
     currencySymbol: "Br",
     currencyCode: "ETB",
+    phoneCode: "+251",
   },
-
   {
     countryName: "Fiji",
     countryCode: "FJ",
     currency: "Fijian Dollar",
     currencySymbol: "$",
     currencyCode: "FJD",
+    phoneCode: "+679",
   },
 
   {
@@ -480,22 +487,23 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+358",
   },
-
   {
     countryName: "France",
     countryCode: "FR",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+33",
   },
-
   {
     countryName: "Gabon",
     countryCode: "GA",
     currency: "Central African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XAF",
+    phoneCode: "+241",
   },
   {
     countryName: "The Gambia",
@@ -503,6 +511,7 @@ const country = [
     currency: "Gambian Dalasi",
     currencySymbol: "D",
     currencyCode: "GMD",
+    phoneCode: "+220",
   },
   {
     countryName: "Georgia",
@@ -510,6 +519,7 @@ const country = [
     currency: "Georgian Lari",
     currencySymbol: "₾",
     currencyCode: "GEL",
+    phoneCode: "+995",
   },
   {
     countryName: "Germany",
@@ -517,6 +527,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+49",
   },
   {
     countryName: "Ghana",
@@ -524,6 +535,7 @@ const country = [
     currency: "Ghanaian Cedi",
     currencySymbol: "GH₵",
     currencyCode: "GHS",
+    phoneCode: "+233",
   },
   {
     countryName: "Greece",
@@ -531,6 +543,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+30",
   },
   {
     countryName: "Grenada",
@@ -538,6 +551,7 @@ const country = [
     currency: "East Caribbean Dollar",
     currencySymbol: "$",
     currencyCode: "XCD",
+    phoneCode: "+1-473",
   },
   {
     countryName: "Guatemala",
@@ -545,6 +559,7 @@ const country = [
     currency: "Guatemalan Quetzal",
     currencySymbol: "Q",
     currencyCode: "GTQ",
+    phoneCode: "+502",
   },
   {
     countryName: "Guinea",
@@ -552,6 +567,7 @@ const country = [
     currency: "Guinean Franc",
     currencySymbol: "FG",
     currencyCode: "GNF",
+    phoneCode: "+224",
   },
   {
     countryName: "Guinea-Bissau",
@@ -559,6 +575,7 @@ const country = [
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+245",
   },
   {
     countryName: "Guyana",
@@ -566,14 +583,15 @@ const country = [
     currency: "Guyanese Dollar",
     currencySymbol: "$",
     currencyCode: "GYD",
+    phoneCode: "+592",
   },
-
   {
     countryName: "Haiti",
     countryCode: "HT",
     currency: "Haitian Gourde",
     currencySymbol: "G",
     currencyCode: "HTG",
+    phoneCode: "+509",
   },
   {
     countryName: "Honduras",
@@ -581,6 +599,7 @@ const country = [
     currency: "Honduran Lempira",
     currencySymbol: "L",
     currencyCode: "HNL",
+    phoneCode: "+504",
   },
   {
     countryName: "Hungary",
@@ -588,14 +607,15 @@ const country = [
     currency: "Hungarian Forint",
     currencySymbol: "Ft",
     currencyCode: "HUF",
+    phoneCode: "+36",
   },
-
   {
     countryName: "Iceland",
     countryCode: "IS",
     currency: "Icelandic Króna",
     currencySymbol: "kr",
     currencyCode: "ISK",
+    phoneCode: "+354",
   },
   {
     countryName: "India",
@@ -603,6 +623,7 @@ const country = [
     currency: "Indian Rupee",
     currencySymbol: "₹",
     currencyCode: "INR",
+    phoneCode: "+91",
   },
   {
     countryName: "Indonesia",
@@ -610,6 +631,7 @@ const country = [
     currency: "Indonesian Rupiah",
     currencySymbol: "Rp",
     currencyCode: "IDR",
+    phoneCode: "+62",
   },
   {
     countryName: "Iran",
@@ -617,6 +639,7 @@ const country = [
     currency: "Iranian Rial",
     currencySymbol: "﷼",
     currencyCode: "IRR",
+    phoneCode: "+98",
   },
   {
     countryName: "Iraq",
@@ -624,6 +647,7 @@ const country = [
     currency: "Iraqi Dinar",
     currencySymbol: "ع.د",
     currencyCode: "IQD",
+    phoneCode: "+964",
   },
   {
     countryName: "Ireland",
@@ -631,6 +655,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+353",
   },
   {
     countryName: "Israel",
@@ -638,6 +663,7 @@ const country = [
     currency: "Israeli New Shekel",
     currencySymbol: "₪",
     currencyCode: "ILS",
+    phoneCode: "+972",
   },
   {
     countryName: "Italy",
@@ -645,6 +671,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+39",
   },
   {
     countryName: "Jamaica",
@@ -652,6 +679,7 @@ const country = [
     currency: "Jamaican Dollar",
     currencySymbol: "$",
     currencyCode: "JMD",
+    phoneCode: "+1-876",
   },
   {
     countryName: "Japan",
@@ -659,6 +687,7 @@ const country = [
     currency: "Japanese Yen",
     currencySymbol: "¥",
     currencyCode: "JPY",
+    phoneCode: "+81",
   },
   {
     countryName: "Jordan",
@@ -666,14 +695,15 @@ const country = [
     currency: "Jordanian Dinar",
     currencySymbol: "د.ا",
     currencyCode: "JOD",
+    phoneCode: "+962",
   },
-
   {
     countryName: "Kazakhstan",
     countryCode: "KZ",
     currency: "Kazakhstani Tenge",
     currencySymbol: "₸",
     currencyCode: "KZT",
+    phoneCode: "+7",
   },
   {
     countryName: "Kenya",
@@ -681,6 +711,7 @@ const country = [
     currency: "Kenyan Shilling",
     currencySymbol: "KSh",
     currencyCode: "KES",
+    phoneCode: "+254",
   },
   {
     countryName: "Kiribati",
@@ -688,6 +719,7 @@ const country = [
     currency: "Australian Dollar",
     currencySymbol: "$",
     currencyCode: "AUD",
+    phoneCode: "+686",
   },
   {
     countryName: "Korea, North",
@@ -695,6 +727,7 @@ const country = [
     currency: "North Korean Won",
     currencySymbol: "₩",
     currencyCode: "KPW",
+    phoneCode: "+850",
   },
   {
     countryName: "Korea, South",
@@ -702,6 +735,7 @@ const country = [
     currency: "South Korean Won",
     currencySymbol: "₩",
     currencyCode: "KRW",
+    phoneCode: "+82",
   },
   {
     countryName: "Kosovo",
@@ -709,6 +743,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+383",
   },
   {
     countryName: "Kuwait",
@@ -716,6 +751,7 @@ const country = [
     currency: "Kuwaiti Dinar",
     currencySymbol: "د.ك",
     currencyCode: "KWD",
+    phoneCode: "+965",
   },
   {
     countryName: "Kyrgyzstan",
@@ -723,14 +759,15 @@ const country = [
     currency: "Kyrgyzstani Som",
     currencySymbol: "сом",
     currencyCode: "KGS",
+    phoneCode: "+996",
   },
-
   {
     countryName: "Laos",
     countryCode: "LA",
     currency: "Lao Kip",
     currencySymbol: "₭",
     currencyCode: "LAK",
+    phoneCode: "+856",
   },
   {
     countryName: "Latvia",
@@ -738,6 +775,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+371",
   },
   {
     countryName: "Lebanon",
@@ -745,6 +783,7 @@ const country = [
     currency: "Lebanese Pound",
     currencySymbol: "ل.ل",
     currencyCode: "LBP",
+    phoneCode: "+961",
   },
   {
     countryName: "Lesotho",
@@ -752,6 +791,7 @@ const country = [
     currency: "Lesotho Loti",
     currencySymbol: "L",
     currencyCode: "LSL",
+    phoneCode: "+266",
   },
   {
     countryName: "Liberia",
@@ -759,6 +799,7 @@ const country = [
     currency: "Liberian Dollar",
     currencySymbol: "$",
     currencyCode: "LRD",
+    phoneCode: "+231",
   },
   {
     countryName: "Libya",
@@ -766,6 +807,7 @@ const country = [
     currency: "Libyan Dinar",
     currencySymbol: "ل.د",
     currencyCode: "LYD",
+    phoneCode: "+218",
   },
   {
     countryName: "Liechtenstein",
@@ -773,14 +815,15 @@ const country = [
     currency: "Swiss Franc",
     currencySymbol: "CHF",
     currencyCode: "CHF",
+    phoneCode: "+423",
   },
-
   {
     countryName: "Lithuania",
     countryCode: "LT",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+370",
   },
   {
     countryName: "Luxembourg",
@@ -788,14 +831,15 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+352",
   },
-
   {
     countryName: "Madagascar",
     countryCode: "MG",
     currency: "Malagasy Ariary",
     currencySymbol: "Ar",
     currencyCode: "MGA",
+    phoneCode: "+261",
   },
   {
     countryName: "Malawi",
@@ -803,6 +847,7 @@ const country = [
     currency: "Malawian Kwacha",
     currencySymbol: "MK",
     currencyCode: "MWK",
+    phoneCode: "+265",
   },
   {
     countryName: "Malaysia",
@@ -810,6 +855,7 @@ const country = [
     currency: "Malaysian Ringgit",
     currencySymbol: "RM",
     currencyCode: "MYR",
+    phoneCode: "+60",
   },
   {
     countryName: "Maldives",
@@ -817,6 +863,7 @@ const country = [
     currency: "Maldivian Rufiyaa",
     currencySymbol: "Rf",
     currencyCode: "MVR",
+    phoneCode: "+960",
   },
   {
     countryName: "Mali",
@@ -824,6 +871,7 @@ const country = [
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+223",
   },
   {
     countryName: "Malta",
@@ -831,6 +879,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+356",
   },
   {
     countryName: "Marshall Islands",
@@ -838,6 +887,7 @@ const country = [
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+692",
   },
   {
     countryName: "Mauritania",
@@ -845,14 +895,15 @@ const country = [
     currency: "Mauritanian Ouguiya",
     currencySymbol: "UM",
     currencyCode: "MRU",
+    phoneCode: "+222",
   },
-
   {
     countryName: "Mauritius",
     countryCode: "MU",
     currency: "Mauritian Rupee",
     currencySymbol: "₨",
     currencyCode: "MUR",
+    phoneCode: "+230",
   },
   {
     countryName: "Mexico",
@@ -860,6 +911,7 @@ const country = [
     currency: "Mexican Peso",
     currencySymbol: "$",
     currencyCode: "MXN",
+    phoneCode: "+52",
   },
   {
     countryName: "Micronesia, Federated States of",
@@ -867,6 +919,7 @@ const country = [
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+691",
   },
   {
     countryName: "Moldova",
@@ -874,6 +927,7 @@ const country = [
     currency: "Moldovan Leu",
     currencySymbol: "MDL",
     currencyCode: "MDL",
+    phoneCode: "+373",
   },
   {
     countryName: "Monaco",
@@ -881,6 +935,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+377",
   },
   {
     countryName: "Mongolia",
@@ -888,14 +943,15 @@ const country = [
     currency: "Mongolian Tugrik",
     currencySymbol: "₮",
     currencyCode: "MNT",
+    phoneCode: "+976",
   },
-
   {
     countryName: "Montenegro",
     countryCode: "ME",
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+382",
   },
   {
     countryName: "Morocco",
@@ -903,6 +959,7 @@ const country = [
     currency: "Moroccan Dirham",
     currencySymbol: "د.م.",
     currencyCode: "MAD",
+    phoneCode: "+212",
   },
   {
     countryName: "Mozambique",
@@ -910,21 +967,24 @@ const country = [
     currency: "Mozambican Metical",
     currencySymbol: "MT",
     currencyCode: "MZN",
+    phoneCode: "+258",
   },
+
   {
     countryName: "Myanmar (Burma)",
     countryCode: "MM",
     currency: "Myanmar Kyat",
     currencySymbol: "Ks",
     currencyCode: "MMK",
+    phoneCode: "+95",
   },
-
   {
     countryName: "Namibia",
     countryCode: "NA",
     currency: "Namibian Dollar",
     currencySymbol: "$",
     currencyCode: "NAD",
+    phoneCode: "+264",
   },
   {
     countryName: "Nauru",
@@ -932,6 +992,7 @@ const country = [
     currency: "Australian Dollar",
     currencySymbol: "$",
     currencyCode: "AUD",
+    phoneCode: "+674",
   },
   {
     countryName: "Nepal",
@@ -939,6 +1000,7 @@ const country = [
     currency: "Nepalese Rupee",
     currencySymbol: "₨",
     currencyCode: "NPR",
+    phoneCode: "+977",
   },
   {
     countryName: "Netherlands",
@@ -946,6 +1008,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+31",
   },
   {
     countryName: "New Zealand",
@@ -953,6 +1016,7 @@ const country = [
     currency: "New Zealand Dollar",
     currencySymbol: "$",
     currencyCode: "NZD",
+    phoneCode: "+64",
   },
   {
     countryName: "Nicaragua",
@@ -960,6 +1024,7 @@ const country = [
     currency: "Nicaraguan Córdoba",
     currencySymbol: "C$",
     currencyCode: "NIO",
+    phoneCode: "+505",
   },
   {
     countryName: "Niger",
@@ -967,6 +1032,7 @@ const country = [
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+227",
   },
   {
     countryName: "Nigeria",
@@ -974,6 +1040,7 @@ const country = [
     currency: "Nigerian Naira",
     currencySymbol: "₦",
     currencyCode: "NGN",
+    phoneCode: "+234",
   },
   {
     countryName: "North Macedonia",
@@ -981,6 +1048,7 @@ const country = [
     currency: "Macedonian Denar",
     currencySymbol: "ден",
     currencyCode: "MKD",
+    phoneCode: "+389",
   },
   {
     countryName: "Norway",
@@ -988,22 +1056,23 @@ const country = [
     currency: "Norwegian Krone",
     currencySymbol: "kr",
     currencyCode: "NOK",
+    phoneCode: "+47",
   },
-
   {
     countryName: "Oman",
     countryCode: "OM",
     currency: "Omani Rial",
     currencySymbol: "ر.ع.",
     currencyCode: "OMR",
+    phoneCode: "+968",
   },
-
   {
     countryName: "Pakistan",
     countryCode: "PK",
     currency: "Pakistani Rupee",
     currencySymbol: "₨",
     currencyCode: "PKR",
+    phoneCode: "+92",
   },
   {
     countryName: "Palau",
@@ -1011,6 +1080,7 @@ const country = [
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+680",
   },
   {
     countryName: "Panama",
@@ -1018,6 +1088,7 @@ const country = [
     currency: "Panamanian Balboa",
     currencySymbol: "B/.",
     currencyCode: "PAB",
+    phoneCode: "+507",
   },
   {
     countryName: "Papua New Guinea",
@@ -1025,6 +1096,7 @@ const country = [
     currency: "Papua New Guinean Kina",
     currencySymbol: "K",
     currencyCode: "PGK",
+    phoneCode: "+675",
   },
   {
     countryName: "Paraguay",
@@ -1032,6 +1104,7 @@ const country = [
     currency: "Paraguayan Guarani",
     currencySymbol: "₲",
     currencyCode: "PYG",
+    phoneCode: "+595",
   },
   {
     countryName: "Peru",
@@ -1039,6 +1112,7 @@ const country = [
     currency: "Peruvian Sol",
     currencySymbol: "S/.",
     currencyCode: "PEN",
+    phoneCode: "+51",
   },
   {
     countryName: "Philippines",
@@ -1046,6 +1120,7 @@ const country = [
     currency: "Philippine Peso",
     currencySymbol: "₱",
     currencyCode: "PHP",
+    phoneCode: "+63",
   },
   {
     countryName: "Poland",
@@ -1053,6 +1128,7 @@ const country = [
     currency: "Polish Zloty",
     currencySymbol: "zł",
     currencyCode: "PLN",
+    phoneCode: "+48",
   },
   {
     countryName: "Portugal",
@@ -1060,22 +1136,23 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+351",
   },
-
   {
     countryName: "Qatar",
     countryCode: "QA",
     currency: "Qatari Riyal",
     currencySymbol: "ر.ق",
     currencyCode: "QAR",
+    phoneCode: "+974",
   },
-
   {
     countryName: "Romania",
     countryCode: "RO",
     currency: "Romanian Leu",
     currencySymbol: "lei",
     currencyCode: "RON",
+    phoneCode: "+40",
   },
   {
     countryName: "Russia",
@@ -1083,6 +1160,7 @@ const country = [
     currency: "Russian Ruble",
     currencySymbol: "₽",
     currencyCode: "RUB",
+    phoneCode: "+7",
   },
   {
     countryName: "Rwanda",
@@ -1090,14 +1168,15 @@ const country = [
     currency: "Rwandan Franc",
     currencySymbol: "FRw",
     currencyCode: "RWF",
+    phoneCode: "+250",
   },
-
   {
     countryName: "Saint Kitts and Nevis",
     countryCode: "KN",
     currency: "East Caribbean Dollar",
     currencySymbol: "$",
     currencyCode: "XCD",
+    phoneCode: "+1-869",
   },
   {
     countryName: "Saint Lucia",
@@ -1105,6 +1184,7 @@ const country = [
     currency: "East Caribbean Dollar",
     currencySymbol: "$",
     currencyCode: "XCD",
+    phoneCode: "+1-758",
   },
   {
     countryName: "Saint Vincent and the Grenadines",
@@ -1112,6 +1192,7 @@ const country = [
     currency: "East Caribbean Dollar",
     currencySymbol: "$",
     currencyCode: "XCD",
+    phoneCode: "+1-784",
   },
   {
     countryName: "Samoa",
@@ -1119,6 +1200,7 @@ const country = [
     currency: "Samoan Tala",
     currencySymbol: "T",
     currencyCode: "WST",
+    phoneCode: "+685",
   },
   {
     countryName: "San Marino",
@@ -1126,6 +1208,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+378",
   },
   {
     countryName: "Sao Tome and Principe",
@@ -1133,6 +1216,7 @@ const country = [
     currency: "São Tomé and Príncipe Dobra",
     currencySymbol: "Db",
     currencyCode: "STN",
+    phoneCode: "+239",
   },
   {
     countryName: "Saudi Arabia",
@@ -1140,6 +1224,7 @@ const country = [
     currency: "Saudi Riyal",
     currencySymbol: "ر.س",
     currencyCode: "SAR",
+    phoneCode: "+966",
   },
   {
     countryName: "Senegal",
@@ -1147,14 +1232,15 @@ const country = [
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+221",
   },
-
   {
     countryName: "Serbia",
     countryCode: "RS",
     currency: "Serbian Dinar",
     currencySymbol: "дин.",
     currencyCode: "RSD",
+    phoneCode: "+381",
   },
   {
     countryName: "Seychelles",
@@ -1162,6 +1248,7 @@ const country = [
     currency: "Seychellois Rupee",
     currencySymbol: "₨",
     currencyCode: "SCR",
+    phoneCode: "+248",
   },
   {
     countryName: "Sierra Leone",
@@ -1169,6 +1256,7 @@ const country = [
     currency: "Sierra Leonean Leone",
     currencySymbol: "Le",
     currencyCode: "SLL",
+    phoneCode: "+232",
   },
   {
     countryName: "Singapore",
@@ -1176,6 +1264,7 @@ const country = [
     currency: "Singapore Dollar",
     currencySymbol: "$",
     currencyCode: "SGD",
+    phoneCode: "+65",
   },
   {
     countryName: "Slovakia",
@@ -1183,6 +1272,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+421",
   },
   {
     countryName: "Slovenia",
@@ -1190,6 +1280,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+386",
   },
   {
     countryName: "Solomon Islands",
@@ -1197,6 +1288,7 @@ const country = [
     currency: "Solomon Islands Dollar",
     currencySymbol: "SI$",
     currencyCode: "SBD",
+    phoneCode: "+677",
   },
   {
     countryName: "Somalia",
@@ -1204,14 +1296,15 @@ const country = [
     currency: "Somali Shilling",
     currencySymbol: "Sh",
     currencyCode: "SOS",
+    phoneCode: "+252",
   },
-
   {
     countryName: "South Africa",
     countryCode: "ZA",
     currency: "South African Rand",
     currencySymbol: "R",
     currencyCode: "ZAR",
+    phoneCode: "+27",
   },
   {
     countryName: "Spain",
@@ -1219,6 +1312,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+34",
   },
   {
     countryName: "Sri Lanka",
@@ -1226,6 +1320,7 @@ const country = [
     currency: "Sri Lankan Rupee",
     currencySymbol: "රු",
     currencyCode: "LKR",
+    phoneCode: "+94",
   },
   {
     countryName: "Sudan",
@@ -1233,6 +1328,7 @@ const country = [
     currency: "Sudanese Pound",
     currencySymbol: "ج.س.",
     currencyCode: "SDG",
+    phoneCode: "+249",
   },
   {
     countryName: "South Sudan",
@@ -1240,6 +1336,7 @@ const country = [
     currency: "South Sudanese Pound",
     currencySymbol: "SSP",
     currencyCode: "SSP",
+    phoneCode: "+211",
   },
   {
     countryName: "Suriname",
@@ -1247,6 +1344,7 @@ const country = [
     currency: "Surinamese Dollar",
     currencySymbol: "$",
     currencyCode: "SRD",
+    phoneCode: "+597",
   },
   {
     countryName: "Sweden",
@@ -1254,6 +1352,7 @@ const country = [
     currency: "Swedish Krona",
     currencySymbol: "kr",
     currencyCode: "SEK",
+    phoneCode: "+46",
   },
   {
     countryName: "Switzerland",
@@ -1261,6 +1360,7 @@ const country = [
     currency: "Swiss Franc",
     currencySymbol: "CHF",
     currencyCode: "CHF",
+    phoneCode: "+41",
   },
   {
     countryName: "Syria",
@@ -1268,14 +1368,15 @@ const country = [
     currency: "Syrian Pound",
     currencySymbol: "£S",
     currencyCode: "SYP",
+    phoneCode: "+963",
   },
-
   {
     countryName: "Taiwan",
     countryCode: "TW",
     currency: "New Taiwan Dollar",
     currencySymbol: "NT$",
     currencyCode: "TWD",
+    phoneCode: "+886",
   },
   {
     countryName: "Tajikistan",
@@ -1283,6 +1384,7 @@ const country = [
     currency: "Tajikistani Somoni",
     currencySymbol: "ЅМ",
     currencyCode: "TJS",
+    phoneCode: "+992",
   },
   {
     countryName: "Tanzania",
@@ -1290,6 +1392,7 @@ const country = [
     currency: "Tanzanian Shilling",
     currencySymbol: "TSh",
     currencyCode: "TZS",
+    phoneCode: "+255",
   },
   {
     countryName: "Thailand",
@@ -1297,14 +1400,15 @@ const country = [
     currency: "Thai Baht",
     currencySymbol: "฿",
     currencyCode: "THB",
+    phoneCode: "+66",
   },
-
   {
     countryName: "Togo",
     countryCode: "TG",
     currency: "West African CFA Franc",
     currencySymbol: "CFA",
     currencyCode: "XOF",
+    phoneCode: "+228",
   },
   {
     countryName: "Tonga",
@@ -1312,6 +1416,7 @@ const country = [
     currency: "Tongan Pa'anga",
     currencySymbol: "T$",
     currencyCode: "TOP",
+    phoneCode: "+676",
   },
   {
     countryName: "Trinidad and Tobago",
@@ -1319,6 +1424,7 @@ const country = [
     currency: "Trinidad and Tobago Dollar",
     currencySymbol: "TT$",
     currencyCode: "TTD",
+    phoneCode: "+1-868",
   },
   {
     countryName: "Tunisia",
@@ -1326,14 +1432,15 @@ const country = [
     currency: "Tunisian Dinar",
     currencySymbol: "د.ت",
     currencyCode: "TND",
+    phoneCode: "+216",
   },
-
   {
     countryName: "Turkey",
     countryCode: "TR",
     currency: "Turkish Lira",
     currencySymbol: "₺",
     currencyCode: "TRY",
+    phoneCode: "+90",
   },
   {
     countryName: "Turkmenistan",
@@ -1341,6 +1448,7 @@ const country = [
     currency: "Turkmenistan Manat",
     currencySymbol: "TMT",
     currencyCode: "TMT",
+    phoneCode: "+993",
   },
   {
     countryName: "Tuvalu",
@@ -1348,14 +1456,15 @@ const country = [
     currency: "Australian Dollar",
     currencySymbol: "$",
     currencyCode: "AUD",
+    phoneCode: "+688",
   },
-
   {
     countryName: "Uganda",
     countryCode: "UG",
     currency: "Ugandan Shilling",
     currencySymbol: "USh",
     currencyCode: "UGX",
+    phoneCode: "+256",
   },
   {
     countryName: "Ukraine",
@@ -1363,6 +1472,7 @@ const country = [
     currency: "Ukrainian Hryvnia",
     currencySymbol: "₴",
     currencyCode: "UAH",
+    phoneCode: "+380",
   },
   {
     countryName: "United Arab Emirates",
@@ -1370,6 +1480,7 @@ const country = [
     currency: "United Arab Emirates Dirham",
     currencySymbol: "د.إ",
     currencyCode: "AED",
+    phoneCode: "+971",
   },
   {
     countryName: "United Kingdom",
@@ -1377,6 +1488,7 @@ const country = [
     currency: "British Pound Sterling",
     currencySymbol: "£",
     currencyCode: "GBP",
+    phoneCode: "+44",
   },
   {
     countryName: "United States",
@@ -1384,6 +1496,7 @@ const country = [
     currency: "United States Dollar",
     currencySymbol: "$",
     currencyCode: "USD",
+    phoneCode: "+1",
   },
   {
     countryName: "Uruguay",
@@ -1391,6 +1504,7 @@ const country = [
     currency: "Uruguayan Peso",
     currencySymbol: "$",
     currencyCode: "UYU",
+    phoneCode: "+598",
   },
   {
     countryName: "Uzbekistan",
@@ -1398,14 +1512,15 @@ const country = [
     currency: "Uzbekistan Som",
     currencySymbol: "so'm",
     currencyCode: "UZS",
+    phoneCode: "+998",
   },
-
   {
     countryName: "Vanuatu",
     countryCode: "VU",
     currency: "Vanuatu Vatu",
     currencySymbol: "VT",
     currencyCode: "VUV",
+    phoneCode: "+678",
   },
   {
     countryName: "Vatican City",
@@ -1413,6 +1528,7 @@ const country = [
     currency: "Euro",
     currencySymbol: "€",
     currencyCode: "EUR",
+    phoneCode: "+379",
   },
   {
     countryName: "Venezuela",
@@ -1420,6 +1536,7 @@ const country = [
     currency: "Venezuelan Bolívar",
     currencySymbol: "Bs.S.",
     currencyCode: "VES",
+    phoneCode: "+58",
   },
   {
     countryName: "Vietnam",
@@ -1427,14 +1544,15 @@ const country = [
     currency: "Vietnamese Dong",
     currencySymbol: "₫",
     currencyCode: "VND",
+    phoneCode: "+84",
   },
-
   {
     countryName: "Yemen",
     countryCode: "YE",
     currency: "Yemeni Rial",
     currencySymbol: "﷼",
     currencyCode: "YER",
+    phoneCode: "+967",
   },
   {
     countryName: "Zambia",
@@ -1442,6 +1560,7 @@ const country = [
     currency: "Zambian Kwacha",
     currencySymbol: "ZK",
     currencyCode: "ZMW",
+    phoneCode: "+260",
   },
   {
     countryName: "Zimbabwe",
@@ -1449,6 +1568,7 @@ const country = [
     currency: "Zimbabwean Dollar",
     currencySymbol: "$",
     currencyCode: "ZWL",
+    phoneCode: "+263",
   },
 ];
 const getCountry = () => {
@@ -1458,4 +1578,5 @@ const getCountry = () => {
     console.log(error);
   }
 };
-module.exports = {getCountry};
+
+module.exports = { getCountry };
